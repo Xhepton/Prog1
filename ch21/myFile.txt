@@ -1,0 +1,10 @@
+dog 324 536
+cat 43 647
+giraffe 245 647
+testing 24 67
+coffee 35 26
+cabin 367 21
+house 135 758
+morphling 367 25
+lines 536 423
+purple 264 123
